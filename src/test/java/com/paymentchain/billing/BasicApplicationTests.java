@@ -28,7 +28,7 @@ import com.paymentchain.billing.dto.InvoiceResponse;
 import com.paymentchain.billing.entities.Invoice;
 import com.paymentchain.billing.respository.InvoiceRepository;
 
-//Test de comprobaciones
+//Test de comprobaciones01
 public class BasicApplicationTests extends AbstractIntegrationTest {
 
 	private MockMvc mockMvc;
