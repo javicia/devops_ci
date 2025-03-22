@@ -28,7 +28,8 @@ import com.paymentchain.billing.dto.InvoiceResponse;
 import com.paymentchain.billing.entities.Invoice;
 import com.paymentchain.billing.respository.InvoiceRepository;
 
-//Test de comprobaciones01
+//Test de comprobaciones    01
+//Probando notificaciones de slack en el pipelines
 public class BasicApplicationTests extends AbstractIntegrationTest {
 
 	private MockMvc mockMvc;
